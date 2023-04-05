@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
+title: "WIP"
 date: 2015
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "WIP"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

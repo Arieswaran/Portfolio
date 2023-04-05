@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Arieswaran",
-    "label": "Game Developer",
+    "label": "Full Stack Game Developer",
     "picture": "https://media.licdn.com/dms/image/C5603AQG2WgVmCeeMkw/profile-displayphoto-shrink_200_200/0/1611860397043?e=1686182400&v=beta&t=N-Jn20J3jOeTsfdR1rKmFPym9PZ8skaz-6yarx_gBG4",
     "email": "arieswaran@gmail.com",
     "phone": "+917010045738",
     "website": "https://arieswaran.github.io",
-    "summary": "Arieswaran is a game developer with three years of experience. He's a pro at Unity and nodejs and knows his way around AWS and GCloud. When he's not busy automating everything in sight, he loves to indulge in his love for video games. If you need a hand with anything tech-related, Arieswaran is your guy - just don't challenge him to a game of League of Legends, or you might regret it!",
+    "summary": "I am Senior game developer with three years of experience. I am a pro at Unity and nodejs and knows my way around AWS and GCloud. When I'm not busy automating everything in sight, I love to indulge in my love for video games. If you need a hand with anything tech-related, I am your guy - just don't challenge me to a game of League of Legends, or you might regret it!",
     "location": { "address": "", "postalCode": "628721", "city": "Vanaramutti", "countryCode": "India", "region": "Tamilnadu" },
     "profiles": [
       { "network": "github", "username": "Arieswaran", "url": "http://github.com/arieswaran" },
@@ -60,43 +60,43 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Project-Xenomouse",
+      "website": "https://github.com/Arieswaran/Project-Xenomouse",
+      "position": "Unity Game Developer",
+      "startDate": "2023-02-13",
+      "endDate": "2023-02-20",
+      "summary": "Brackey's 2023 game jam submission",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Developed the basic architecture and implemented core functionalities and logic for the game",
+        "Coordinated with team members to ensure smooth collaboration and resolved issues that arose during the project",
+        "Ranked 65th out of 734 submissions in the Brackey's game jam competition."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "organization": "IU-tron",
+      "website": "https://github.com/Arieswaran/IU-tron",
+      "position": "Solo Project",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "AI powered bug reporting discord bot",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Discord bot that automatically creates bug reports",
+        "Uses open AI API to generate bug reports",
+        "Creates a clickup task for the bug report and also checks for duplicates"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "organization": "IUverse",
+      "website": "https://github.com/Arieswaran/IUverse",
+      "position": "Solo Project",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Simple picture puzzle game made in Unity featuring pictures of IU",
+      "highlights": [
+        "Picture switching puzzle game",
+        "It has a gallery feature and unlimited levels",
+        "Increasing difficulty as the levels progress"
+      ]
     }
   ],
   "references": [
