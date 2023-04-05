@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hitwicket/hw_icon.jpg
+image: img/hitwicket/hw_icon.png
 title: "Hitwicket"
 date: 2019 - Present
 published: true
@@ -22,9 +22,7 @@ Hitwicket Superstars is an exciting cricket strategy game that lets you own, tra
 <li>"App of the Year" - HYSEA</li>
 </ul>
 
-<hr>
 
-<pre>
 
 As a full stack game developer for Hitwicket Superstars, I have made significant contributions to the game's development and success. One of my key achievements has been improving the app's stability, reducing crashes and ANRs, resulting in better app performance and a superior user experience. My dedication to ensuring that the app runs smoothly has made a significant impact on the overall satisfaction of the game's user base.
 
@@ -36,8 +34,6 @@ My leadership skills and experience have been critical in the successful deliver
 
 Overall, my contributions to Hitwicket Superstars have been remarkable. I have played a significant role in improving the app's stability, handling multiplayer features, and streamlining workflows to increase team efficiency. My strong leadership skills have been instrumental in ensuring the successful delivery of multiple features, and our team's commitment to innovation and excellence has helped make Hitwicket Superstars one of the most popular games in the market.
 
-</pre>
 
-<hr>
 
-Link: <a href="https://hitwicket.com"><i class="large github icon "></i>Hitwicket</a>
+Website Link: <a href="https://hitwicket.com"><i class="large github icon "></i>Hitwicket</a>
