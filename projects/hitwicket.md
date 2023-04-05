@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hitwicket/hw_icon.png
+image: img/Hitwicket/hw.jpg
 title: "Hitwicket"
 date: 2019 - Present
 published: true
