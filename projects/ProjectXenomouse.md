@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Project: Xenomouse"
-date: 2015
+date: 2023
 published: true
 labels:
   - Unity
