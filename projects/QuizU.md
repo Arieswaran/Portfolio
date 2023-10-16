@@ -30,4 +30,4 @@ Compete against fellow UAENAs from all over the world! Show off your expertise i
 Mixed Overall Quiz:
 Think you can handle everything IU in one go? The Mixed Overall Quiz combines all the elements of the game, spanning songs, characters, and trivia. Prove you're the ultimate IU expert by conquering this comprehensive challenge.
 
-PlayStore Link: <a href="hhttps://play.google.com/store/apps/details?id=com.TheFreakinProgrammer.IUQuiz">QuizU</a>
+PlayStore Link: <a href="https://play.google.com/store/apps/details?id=com.TheFreakinProgrammer.IUQuiz">QuizU</a>
