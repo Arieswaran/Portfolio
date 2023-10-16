@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/xenomouse/icon.png
 title: "Project: Xenomouse"
 date: 2023
 published: true
