@@ -5,6 +5,7 @@ image: img/IUverse/iutron.jpeg
 title: "IU-tron"
 date: 2023
 published: true
+id: 3
 labels:
   - AI
   - Python
